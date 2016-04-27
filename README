@@ -1,0 +1,7 @@
+the modified version of sikuli
+
+add back the unit test feature;
+
+support selecting one test in the test suit to run;
+
+support import other cases's codes
